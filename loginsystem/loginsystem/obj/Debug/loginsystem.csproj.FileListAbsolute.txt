@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\loginsystem\loginsystem\bin\Debug\loginsystem.exe.config
+C:\Users\HP\Desktop\loginsystem\loginsystem\bin\Debug\loginsystem.exe
+C:\Users\HP\Desktop\loginsystem\loginsystem\bin\Debug\loginsystem.pdb
+C:\Users\HP\Desktop\loginsystem\loginsystem\obj\Debug\loginsystem.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\loginsystem\loginsystem\obj\Debug\loginsystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\loginsystem\loginsystem\obj\Debug\loginsystem.Form1.resources
+C:\Users\HP\Desktop\loginsystem\loginsystem\obj\Debug\loginsystem.Properties.Resources.resources
+C:\Users\HP\Desktop\loginsystem\loginsystem\obj\Debug\loginsystem.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\loginsystem\loginsystem\obj\Debug\loginsystem.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\loginsystem\loginsystem\obj\Debug\loginsystem.exe
+C:\Users\HP\Desktop\loginsystem\loginsystem\obj\Debug\loginsystem.pdb
